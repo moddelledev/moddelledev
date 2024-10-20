@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moddelledev
-- 👀 I’m interested in game development, modding a games and Hello Neighbor franchise
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning Python, C++, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bodjich on Discord
